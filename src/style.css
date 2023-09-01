@@ -1,11 +1,11 @@
 * {
     box-sizing: border-box;
-    color: #333;
+    color: #180101;
   }
   
   body {
     background-color: #81a69b;
-    background-image: url(http://pets-images.dev-apis.com/pets/wallpaperB.jpg);
+    background-image: url(https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80);
     margin: 0;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
@@ -17,7 +17,7 @@
   
   .search-params form {
     border-radius: 6px;
-    background: #faeff0;
+    background: #bd7809;
     box-shadow: 0px 0px 12px #aaa, -0px -0px 12px #fff;
     width: 360px;
     margin: 0px 25px 0px 0px;
@@ -191,9 +191,9 @@
   #modal button,
   #modal a,
   .details button {
-    background-color: #ad343e;
+    background-color: #068e2f;
     padding: 5px 25px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 18px;
     border: #333 1px solid;
     border-radius: 5px;
